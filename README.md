@@ -1,16 +1,22 @@
-# time_tracker
+# TimeTracker-App
 
-A new Flutter project.
+A Flutter-based time tracking application to help you manage your time efficiently.
 
-## Getting Started
+## 📱 Features
+- Track time for different projects
+- Add and manage tasks
+- View time entries history
+- Generate time reports
+- Dark/Light theme support
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
+- Flutter SDK (latest version)
+- Dart SDK
+- Android Studio / VS Code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+1. Clone the repository
+```bash
+git clone https://github.com/Inema-Leslie/TimeTracker-App.git
